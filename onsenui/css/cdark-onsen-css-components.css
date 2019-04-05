@@ -6841,7 +6841,7 @@ ons-fab.fab--bottom__center, button.fab--bottom__center, .speed-dial.fab--bottom
     </div>
 */
 .card--material {
-  background-color: #424242;
+  background-color: #242424;
   border-radius: 2px;
   box-shadow:
       0 2px 2px 0 rgba(0, 0, 0, .14),
@@ -6855,7 +6855,7 @@ ons-fab.fab--bottom__center, button.fab--bottom__center, .speed-dial.fab--bottom
   font-size: 14px;
   line-height: 1.4;
   color: #ffffff;
-  color: rgba(255, 255, 255, 0.46);
+  color: rgba(255, 255, 255, .46);
 }
 /*~
   name: Material Card with Title
